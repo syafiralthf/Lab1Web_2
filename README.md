@@ -9,6 +9,8 @@
 ### 2. Membuat file HTML dasar
 - Membuat file `lab1_tag_dasar.html`
 
+<img width="1327" height="830" alt="image" src="https://github.com/user-attachments/assets/fe4ef30e-7668-41bb-80a6-35c8119ac525" />
+
 ### 3. Membuat paragraf
 - Menambahkan bebrapa paragraf menggunakan tag `<p>`
 - Menggunakan atribut `align` (center, right, left, justify).
